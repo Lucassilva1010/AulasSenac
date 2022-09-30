@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\bin\Debug\App01-SENAC.exe.config
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\bin\Debug\App01-SENAC.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\bin\Debug\App01-SENAC.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\obj\Debug\App01-SENAC.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\obj\Debug\App01-SENAC.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\obj\Debug\App01_SENAC.Form1.resources
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\obj\Debug\App01_SENAC.Properties.Resources.resources
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\obj\Debug\App01-SENAC.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\obj\Debug\App01-SENAC.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\obj\Debug\App01-SENAC.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\App01-SENAC\obj\Debug\App01-SENAC.pdb

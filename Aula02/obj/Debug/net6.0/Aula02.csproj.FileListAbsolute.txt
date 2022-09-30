@@ -1,0 +1,15 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\bin\Debug\net6.0\Aula02.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\bin\Debug\net6.0\Aula02.deps.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\bin\Debug\net6.0\Aula02.runtimeconfig.json
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\bin\Debug\net6.0\Aula02.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\bin\Debug\net6.0\Aula02.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\Aula02.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\Aula02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\Aula02.AssemblyInfoInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\Aula02.AssemblyInfo.cs
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\Aula02.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\Aula02.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\refint\Aula02.dll
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\Aula02.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\Aula02.genruntimeconfig.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula02\obj\Debug\net6.0\ref\Aula02.dll

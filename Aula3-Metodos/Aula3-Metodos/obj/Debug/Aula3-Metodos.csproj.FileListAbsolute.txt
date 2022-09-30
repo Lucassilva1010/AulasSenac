@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\Aula3-Metodos\bin\Debug\Aula3-Metodos.exe.config
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\Aula3-Metodos\bin\Debug\Aula3-Metodos.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\Aula3-Metodos\bin\Debug\Aula3-Metodos.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\Aula3-Metodos\obj\Debug\Aula3-Metodos.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\Aula3-Metodos\obj\Debug\Aula3-Metodos.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\Aula3-Metodos\obj\Debug\Aula3-Metodos.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\Aula3-Metodos\obj\Debug\Aula3-Metodos.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\Aula3-Metodos\obj\Debug\Aula3-Metodos.pdb
