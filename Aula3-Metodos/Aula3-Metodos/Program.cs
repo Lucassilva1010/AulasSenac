@@ -13,11 +13,12 @@ namespace Aula3_Metodos
             Console.WriteLine("Bom dia!");
             Frases();
                       
-            Console.WriteLine("Aqui nova forma"+Soma(10,10));
-           
-
+            Console.WriteLine("Aqui nova forma "+Soma(100,10));
             Console.WriteLine("Aqui é o multiplica: ");
             Multiplica();
+            Console.WriteLine(" valor so salario");
+            double salario = double.Parse(Console.ReadLine());
+            Aumento(salario, 0.5);
         }
 
          static void Frases()//Metodo caracteristico
@@ -41,6 +42,22 @@ namespace Aula3_Metodos
 
             resultado = n1 * n2;
             Console.WriteLine(resultado);
+        }
+
+        static double Aumento(double salario, double aumento)
+        {
+           
+
+            if (salario>1000)
+            {
+               return salario = salario + (salario * aumento);
+            }
+            else
+            {
+                return salario = salario - (salario * 0.5);    
+            }
+            
+
         }
     }
 }

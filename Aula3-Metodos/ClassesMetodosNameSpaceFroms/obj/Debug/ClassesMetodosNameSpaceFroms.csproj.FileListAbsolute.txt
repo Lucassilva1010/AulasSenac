@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\bin\Debug\ClassesMetodosNameSpaceFroms.exe.config
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\bin\Debug\ClassesMetodosNameSpaceFroms.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\bin\Debug\ClassesMetodosNameSpaceFroms.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\obj\Debug\ClassesMetodosNameSpaceFroms.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\obj\Debug\ClassesMetodosNameSpaceFroms.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\obj\Debug\ClassesMetodosNameSpaceFroms.Form1.resources
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\obj\Debug\ClassesMetodosNameSpaceFroms.Properties.Resources.resources
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\obj\Debug\ClassesMetodosNameSpaceFroms.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\obj\Debug\ClassesMetodosNameSpaceFroms.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\obj\Debug\ClassesMetodosNameSpaceFroms.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNameSpaceFroms\obj\Debug\ClassesMetodosNameSpaceFroms.pdb

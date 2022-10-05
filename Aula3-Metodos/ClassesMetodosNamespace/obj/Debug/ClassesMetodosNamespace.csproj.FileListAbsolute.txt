@@ -1,0 +1,8 @@
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNamespace\bin\Debug\ClassesMetodosNamespace.exe.config
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNamespace\bin\Debug\ClassesMetodosNamespace.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNamespace\bin\Debug\ClassesMetodosNamespace.pdb
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNamespace\obj\Debug\ClassesMetodosNamespace.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNamespace\obj\Debug\ClassesMetodosNamespace.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNamespace\obj\Debug\ClassesMetodosNamespace.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNamespace\obj\Debug\ClassesMetodosNamespace.exe
+C:\Users\SENAI\Documents\Meus projetos para o GIT\C#\Aulas\Aula01\Aula3-Metodos\ClassesMetodosNamespace\obj\Debug\ClassesMetodosNamespace.pdb
